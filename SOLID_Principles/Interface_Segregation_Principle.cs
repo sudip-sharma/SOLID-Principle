@@ -62,12 +62,12 @@ namespace SOLID_Principles
             the implementation of the WorkOnTask method for the Manager is not suitable, so here we are 
             forcing the Manager class to implement a WorkOnTask() method without a purpose. This is wrong. The 
             design violates ISP. Let's correct the design
-         */ 
+         */
     }
 
     class With_Interface_Segregation_Principle
-    { 
-    
+    {
+
         /* 
             As we have three roles 
                 1. Manager      :-  Creates and assign tasks
@@ -79,13 +79,13 @@ namespace SOLID_Principles
 
         public interface IProgrammer
         {
-            public void WorkOnTask();
+            void WorkOnTask();
         }
 
         public interface ILead
         {
-            public void CreateTask();
-            public void AssignTask();            
+            void CreateTask();
+            void AssignTask();
         }
 
         //The implementation becomes something like
