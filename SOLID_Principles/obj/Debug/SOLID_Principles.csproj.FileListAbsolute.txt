@@ -1,0 +1,7 @@
+c:\users\sudip.sharma\documents\visual studio 2012\Projects\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+C:\GitRepos\SOLID-Principle\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+C:\GitRepos\SOLID-Principle\SOLID_Principles\obj\Debug\SOLID_Principles.csprojResolveAssemblyReference.cache
+C:\GitRepos\SOLID-Principle\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+C:\GitRepos\SOLID-Principle\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+C:\GitRepos\SOLID-Principle\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+C:\GitRepos\SOLID-Principle\SOLID_Principles\obj\Debug\SOLID_Principles.pdb
